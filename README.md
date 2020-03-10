@@ -5,3 +5,7 @@
 * npm init
 * npm i nodemon express body-parser passport passport-google-oauth cookie-session ejs
 * create .gitignore and add "node_modules"
+
+### branch lesson
+* create login page
+* create authen route
