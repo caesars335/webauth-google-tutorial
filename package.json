@@ -4,7 +4,8 @@
   "description": "* npm init\r * npm i nodemon express body-parser passport passport-google-oauth cookie-session ejs\r * create .gitignore and add \"node_modules\"",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
   },
   "author": "",
   "license": "ISC",
