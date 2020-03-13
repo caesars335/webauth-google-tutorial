@@ -1,7 +1,7 @@
 {
   "name": "webauth",
   "version": "1.0.0",
-  "description": "",
+  "description": "* npm init\r * npm i nodemon express body-parser passport passport-google-oauth cookie-session ejs\r * create .gitignore and add \"node_modules\"",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,14 @@
     "nodemon": "^2.0.2",
     "passport": "^0.4.1",
     "passport-google-oauth": "^2.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caesars335/webauth-google-tutorial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/caesars335/webauth-google-tutorial/issues"
+  },
+  "homepage": "https://github.com/caesars335/webauth-google-tutorial#readme",
+  "devDependencies": {}
 }
